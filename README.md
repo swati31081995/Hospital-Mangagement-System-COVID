@@ -5,5 +5,4 @@ NodeJS web app for managing patients and planning their distribution across hosp
 https://nhshealth.herokuapp.com/
 
 Username : admin
-
 Password : admin
